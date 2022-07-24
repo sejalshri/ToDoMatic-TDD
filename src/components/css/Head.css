@@ -1,0 +1,12 @@
+@import url(
+'https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap'
+);
+
+.todo-image{
+    width: 200px;
+    height: 200px;
+}
+.caption{
+    font-size:25px;
+    font-family: 'Ibarra Real Nova', serif;
+}

@@ -1,0 +1,35 @@
+.button-icon{
+    width: 50%;
+    margin:auto;
+    margin-bottom: 20px;
+
+    margin-top:30px;
+}
+
+.flex-container{
+    display:flex;
+    justify-content:space-around;
+    align-items:baseline;
+}
+
+.btn{
+    width:80%;
+    padding:20px;
+    margin:auto;
+    border-radius:25px;
+    background-color:#AA96DA;
+    font-weight:bold;
+    font-size:20px
+}
+
+.btn:hover{
+    box-shadow: 5px 5px 5px #888888;
+}
+
+i{
+    cursor:pointer;
+}
+
+#hidden{
+    display:none;
+}
